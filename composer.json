@@ -1,0 +1,18 @@
+{
+    "name": "user/tp1_php_unit",
+    "require-dev": {
+        "phpunit/phpunit": "^11.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "User\\Tp1PhpUnit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Elmf95",
+            "email": "elmehdifikri95@gmail.com"
+        }
+    ],
+    "require": {}
+}
